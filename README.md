@@ -174,9 +174,18 @@ Normal (98.7%)
 ```
 
 ---
-<img width="1500" height="844" alt="WhatsApp Image 2026-05-30 at 7 02 24 PM" src="https://github.com/user-attachments/assets/2a5811b7-36e6-4385-be81-3e4399207646" />
+## Nodes placement
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2a16a0b7-5c65-4355-a48d-7dd7d2a37bca" />
 
+---
+## Output
+<img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/3aaa8ffc-345f-4819-8026-0583ddc821be" />
 
+---
+## Connection
+<img width="1280" height="577" alt="image" src="https://github.com/user-attachments/assets/57aa7fff-1690-4d05-b4f9-575f081999f1" />
+
+---
 ## 🎯 Applications
 
 * Remote Patient Monitoring

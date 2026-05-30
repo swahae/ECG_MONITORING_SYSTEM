@@ -175,7 +175,8 @@ Normal (98.7%)
 
 ---
 <img width="1500" height="844" alt="WhatsApp Image 2026-05-30 at 7 02 24 PM" src="https://github.com/user-attachments/assets/2a5811b7-36e6-4385-be81-3e4399207646" />
----
+
+
 ## 🎯 Applications
 
 * Remote Patient Monitoring
